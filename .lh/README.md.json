@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 1,
+            "activePatchIndex": 2,
             "patches": [
                 {
                     "date": 1768596677268,
@@ -12,6 +12,10 @@
                 {
                     "date": 1768596726877,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,9 +1,8 @@\n \n-Website Link is here \n-https://randomforestbasedcroprecomendationsystem-snpx6y9fzo6ag6uxg4cln.streamlit.app/\n+Website Link is here : You can see Live here \n \n-[text](https://huggingface.co/spaces/AnukulChandra/Crop_Recommendation_System)\n+(https://huggingface.co/spaces/AnukulChandra/Crop_Recommendation_System)\n \n Go to this link or copy and pest in your Browser to Enter the website.\n \n \n"
+                },
+                {
+                    "date": 1768596940900,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,23 +1,6 @@\n \n-Website Link is here : You can see Live here \n \n-(https://huggingface.co/spaces/AnukulChandra/Crop_Recommendation_System)\n-\n-Go to this link or copy and pest in your Browser to Enter the website.\n-\n-\n-\n-<img width=\"1912\" height=\"904\" alt=\"image\" src=\"https://github.com/user-attachments/assets/da0b9ea6-e8bc-4ad3-9179-567b942916a0\" />\n-\n-\n-<img width=\"1914\" height=\"895\" alt=\"image\" src=\"https://github.com/user-attachments/assets/533b10c0-42a2-49ef-b7d2-835f3ca49cee\" />\n-\n-\n-\n-<img width=\"1911\" height=\"912\" alt=\"image\" src=\"https://github.com/user-attachments/assets/27492ab4-70c0-42f4-b232-75f53020e64f\" />\n-\n-\n # 🌾 Crop Recommendation System\n \n A Machine Learning–based **Crop Recommendation System** that predicts the most suitable crop based on **soil nutrients and weather conditions**.\n The application is built using **Streamlit** for an interactive UI and a **Random Forest model** for prediction.\n"
                 }
             ],
             "date": 1768596677268,
