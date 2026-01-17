@@ -16,9 +16,9 @@
 > [https://github.com/Parvez-kabir/RandomForest_based_Crop_Recomendation_System](https://github.com/Parvez-kabir/RandomForest_based_Crop_Recomendation_System)
 
 
-# 🌾 Crop Recommendation System
+# 🌾 AI Based Crop Recommendation System
 
-A Machine Learning–based **Crop Recommendation System** that predicts the most suitable crop based on **soil nutrients and weather conditions**.
+An AI–based **Crop Recommendation System** that predicts the most suitable crop based on **soil nutrients and weather conditions**.
 
 The application uses **FastAPI** as the backend to serve the trained **Random Forest model** through APIs, while **Streamlit** is used for an interactive and user-friendly frontend.
 
